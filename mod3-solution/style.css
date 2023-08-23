@@ -10,13 +10,16 @@ body {
 
 h2 {
     margin-top: 20px;
+    font-style: italic;
+    background-color: antiquewhite;
 }
 
 section {
     border: 1px solid #000;
+    border-radius: 10px;
     margin-top: 7%;
     margin-bottom: 3%;
-    padding: 5%;
+    padding: 20px;
     background-color: rgb(129, 118, 137, 0.454);
     color: rgb(44, 44, 44);
 }
