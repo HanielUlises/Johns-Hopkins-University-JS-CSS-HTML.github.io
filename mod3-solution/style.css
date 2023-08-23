@@ -1,0 +1,44 @@
+#navigationBar{
+    color: rgb(44, 44, 44);
+}
+
+body {
+    color: #1c1c20;
+    font-family: 'Oxygen', sans-serif;
+    background-color: antiquewhite;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+section {
+    border: 1px solid #000;
+    margin-top: 7%;
+    margin-bottom: 3%;
+    padding: 5%;
+    background-color: rgb(129, 118, 137, 0.454);
+    color: rgb(44, 44, 44);
+}
+
+.navbar {
+    border: 1px;
+    border-radius: 0;
+    
+}
+
+.navbar-default .navbar-brand{
+    color: #59595a;
+}
+
+.custom-button {
+    padding: 10px 20px 10px 20px;
+    color: rgb(44, 44, 44);
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgba(129, 118, 137, 0.454);
+}
+.custom-button:hover {
+    background-color: black;
+}
